@@ -1,2 +1,2 @@
 # Students-Adaptability-Level
-A supervised classification model for checking the students' adaptability level in an online education system
+With the data for an online education system and the adaptability level of students, this file performs the task of selecting a classifier that best describes the level of adaptability for a student when provided with required parameters. The cleaned data was preprocessed to try on different ML algorithms and then the best algo was selected to further refine the results. This was a portfolio project and all suggestions and feedbacks will be gratefully accepted.
